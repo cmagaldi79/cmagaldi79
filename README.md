@@ -28,13 +28,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 </br>
-</br>
 
 <div>
 <img height="150em" align=left src="https://github-readme-stats-ruby-theta.vercel.app/api/top-langs/?username=cmagaldi79&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-</br>
 </br>
 </br>
 </br>
