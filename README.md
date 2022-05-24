@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/cmagaldi79">
 
 <div>	
-<img height="180em" align=left src="https://github-readme-stats-ruby-theta.vercel.app/api/?username=cmagaldi79&amp;repo=learning&show_icons=true@include_all_commits=true&count_private=true&theme=dark"/>
+<img height="178em" align=left src="https://github-readme-stats-ruby-theta.vercel.app/api/?username=cmagaldi79&amp;repo=learning&show_icons=true@include_all_commits=true&count_private=true&theme=dark"/>
 </div>
 
 </br>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </br>
 
 <div>
-<img height="150em" align=left src="https://github-readme-stats-ruby-theta.vercel.app/api/top-langs/?username=cmagaldi79&layout=compact&langs_count=7&theme=dark"/>
+<img height="148em" align=left src="https://github-readme-stats-ruby-theta.vercel.app/api/top-langs/?username=cmagaldi79&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 </br>
